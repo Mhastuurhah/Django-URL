@@ -30,3 +30,11 @@ Stage and Commit your Django project and push your changes to your GitHub reposi
 Do not add your database (db.sqlite) to version control (GitHub). 
 
 Ensure your final code/submission is on the default branch of your GitHub repository.
+
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/70760998/174165031-558dedc3-a771-4fa0-a805-7f4396f9ca63.png)
+
+
+![image](https://user-images.githubusercontent.com/70760998/174163824-d2d1a061-9bc8-4ac8-9567-e43b7cb8b2a8.png)
+
